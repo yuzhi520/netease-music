@@ -11,6 +11,11 @@
      </div>
   </div>
 </template>
-<style lang="stylus">
-
+<style lang="stylus" scoped>
+#app
+ width 100vw
+ height 100vh
+#header
+ height 120px
+ width 100%
 </style>
