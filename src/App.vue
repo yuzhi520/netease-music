@@ -1,6 +1,14 @@
 <template>
   <div id="app">
-     hello music
+     <div id="header">
+         <img src="./assets/image/rz.png" alt="toggle">
+         <div id="nav-main">
+           <img src="./assets/image/t_actionbar_music_normal.png" alt="">
+           <img src="./assets/image/t_actionbar_discover_normal.png" alt="">
+           <img src="./assets/image/t_actionbar_video_normal.png" alt="">
+         </div>
+         <img src="./assets/image/sj.png" alt="search">
+     </div>
   </div>
 </template>
 <style lang="stylus">
